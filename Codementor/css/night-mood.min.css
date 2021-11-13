@@ -1,0 +1,22 @@
+.events .info .time .unit,.events .subscribe form input[type=email],.header,body{background-color:var(--bs-gray-900)}
+.spikes::after{background-image:linear-gradient(135deg,var(--bs-gray-900) 25%,transparent 25%),linear-gradient(225deg,var(--bs-gray-900) 25%,transparent 25%)}
+.articles .box .content h3,.discount .content h2,.events .info .time .unit span:last-child,.features .box:hover a,.header .main-nav>li>a,.main-title{color:var(--bs-gray-200)}
+.header .mega-menu .links li::before{background-color:var(--bs-gray-700)}
+.events .subscribe form,.header .mega-menu,.main-title{background-color:var(--bs-gray-800)}
+.features .passion a{color:var(--main-color);border-color:var(--main-color);background:linear-gradient(to right,var(--main-color) 50%,var(--bs-gray-900) 50%);background-size:200% 95%;background-position:right bottom}
+.features .time a{color:var(--bs-green);border-color:var(--bs-green);background:linear-gradient(to right,var(--bs-green) 50%,var(--bs-gray-900) 50%);background-size:200% 95%;background-position:right bottom}
+.features .quality a{color:var(--bs-red);border-color:var(--bs-red);background:linear-gradient(to right,var(--bs-red) 50%,var(--bs-gray-900) 50%);background-size:200% 95%;background-position:right bottom}
+.features .box:hover a{background-position:left bottom}
+.header .main-nav>li>a:hover{background-color:var(--bs-gray-600)}
+.gallery,.landing::before,.our-skills .collapse,.pricing,.services,.testimonials,.work-steps{background-color:var(--bs-gray-500)}
+.pricing .box,.team .box::before,.testimonials .box{background-color:var(--bs-gray-400)}
+.testimonials .box img,.videos .holder .list ul li{border-color:var(--bs-gray-400)}
+.articles .box .content p{color:var(--bs-gray-500)}
+.articles .box{background-color:var(--bs-gray-800)}
+.features .box .img-holder::after{border-color:transparent transparent var(--bs-gray-900) transparent}
+.services .box{background-color:var(--main-color)}
+.our-skills .the-progress,.pricing .box::after,.pricing .box::before,.services .box .info{background-color:var(--bs-gray-200)}
+.pricing .box.popular .label::before{border-bottom-color:var(--bs-gray-400)}
+.pricing .box.popular:hover .label::before{border-bottom-color:var(--bs-gray-200)}
+.videos .holder{border-color:var(--bs-gray-700);background-color:var(--bs-gray-800)}
+#go-top{background:#0d6efd3d;color:#000;border:5px solid #000}
